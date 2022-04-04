@@ -32,6 +32,9 @@
 Новая ветка branch_name создается с помощью команды:
 > git branch branch_name
 
+Чтобы переключиться на ветку branch_name, нужно ввести команду:
+> git checkout branch_name
+
 ***Логотип Git:***
 
 ![Логотип Git](Git-logo.png)
