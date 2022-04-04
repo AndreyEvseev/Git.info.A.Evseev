@@ -29,6 +29,9 @@
 Для отображения всех веток вводится команда:
 > git branch
 
+Новая ветка branch_name создается с помощью команды:
+> git branch branch_name
+
 ***Логотип Git:***
 
 ![Логотип Git](Git-logo.png)
