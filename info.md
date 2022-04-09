@@ -35,6 +35,9 @@
 Чтобы переключиться на ветку branch_name, нужно ввести команду:
 > git checkout branch_name
 
+Чтобы слить информацию из ветки branch_name в текущую ветку, используется команда:
+> git merge branch_name
+
 ***Логотип Git:***
 
 ![Логотип Git](Git-logo.png)
